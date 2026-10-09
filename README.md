@@ -66,7 +66,7 @@ Mesh sizes: 6.1–6.6 million cells (pin-fin), 16.4–18.5 million (TPMS). Meshi
 
 **Comparison with SimScale** (parallel pin-fin, same geometry and boundary conditions): peak heater temperature within 1.3 K (6 % of the temperature rise above the inlet). Pressure drop is 0.66 kPa higher and average heater temperature 2.9 K lower with this mesher, consistent with its resolved boundary layer (y+ 0.4) and second-order schemes.
 
-Full report: [All-Hex CHT Mesher: Validation Results (PDF)](docs/All-Hex_CHT_Mesher_Validation_Results.pdf) · data: [validation_results.xlsx](docs/validation_results.xlsx)
+Full report: [All-Hex CHT Mesher Validation Results](All_Hex_CHT_Mesher_Validation_Results.pdf) · Data: [validation_results.xlsx](validation_results.xlsx)
 
 ## Scope and limitations
 

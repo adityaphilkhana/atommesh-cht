@@ -136,4 +136,4 @@ Both simulations over-predict the measured pressure drop. The channel pressure d
 ## Author
 
 **Venkata Rama Aditya Philkhana**, simulation engineer (CFD, conjugate heat transfer, graph neural networks).
-Related work: [Physics-informed GNN surrogate for cold-plate CHT](https://github.com/adityaphilkhana/Graph-neural-network)
+Related work: [Physics-informed GNN surrogate for cold-plate CHT](https://github.com/adityaphilkhana/pignn-cold-plate-cht)

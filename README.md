@@ -116,9 +116,8 @@ Both simulations over-predict the measured pressure drop. The channel pressure d
 
 ### Reports and data
 
-- [Validation results (PDF)](All_Hex_CHT_Mesher_Validation_Results.pdf)
 - [Mesh quality report (PDF)](Mesh_Quality_Report.pdf): all 17 criteria, values for each design, and the sources for each limit
-- [validation_results.xlsx](validation_results.xlsx): every number above, plus meshing time, cost and the benchmark runs
+- [validation_results.xlsx](validation_results.xlsx): every number above, plus the simulation set-up, meshing time, cost and the benchmark runs
 
 ## Scope and limitations
 
